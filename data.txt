@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Fast Food",
+        "options": [
+            {
+                "name": "Pizza",
+                "votes": 2
+            },
+            {
+                "name": "Burger",
+                "votes": 0
+            },
+            {
+                "name": "Tacos",
+                "votes": 0
+            },
+            {
+                "name": "Sushi",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "name": "Fruits",
+        "options": [
+            {
+                "name": "Apple",
+                "votes": 1
+            },
+            {
+                "name": "Banana",
+                "votes": 1
+            },
+            {
+                "name": "Orange",
+                "votes": 0
+            },
+            {
+                "name": "Grapes",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "name": "Holiday Destinations",
+        "options": [
+            {
+                "name": "Beach",
+                "votes": 1
+            },
+            {
+                "name": "Mountains",
+                "votes": 0
+            },
+            {
+                "name": "City",
+                "votes": 0
+            },
+            {
+                "name": "Countryside",
+                "votes": 1
+            }
+        ]
+    },
+    {
+        "name": "Social Media",
+        "options": [
+            {
+                "name": "Instagram",
+                "votes": 2
+            },
+            {
+                "name": "TikTok",
+                "votes": 0
+            },
+            {
+                "name": "Twitter",
+                "votes": 0
+            },
+            {
+                "name": "Facebook",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "name": "Movie Genres",
+        "options": [
+            {
+                "name": "Action",
+                "votes": 0
+            },
+            {
+                "name": "Comedy",
+                "votes": 1
+            },
+            {
+                "name": "Horror",
+                "votes": 1
+            },
+            {
+                "name": "Romance",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "name": "Best in Cricket",
+        "options": [
+            {
+                "name": "Batting",
+                "votes": 0
+            },
+            {
+                "name": "Fielding",
+                "votes": 0
+            },
+            {
+                "name": "Bowling",
+                "votes": 0
+            },
+            {
+                "name": "Keeping",
+                "votes": 1
+            }
+        ]
+    },
+    {
+        "name": "Superheroes",
+        "options": [
+            {
+                "name": "Superman",
+                "votes": 0
+            },
+            {
+                "name": "Batman",
+                "votes": 0
+            },
+            {
+                "name": "Spider-Man",
+                "votes": 1
+            },
+            {
+                "name": "Iron Man",
+                "votes": 1
+            }
+        ]
+    },
+    {
+        "name": "Programming Languages",
+        "options": [
+            {
+                "name": "Python",
+                "votes": 0
+            },
+            {
+                "name": "JavaScript",
+                "votes": 1
+            },
+            {
+                "name": "Java",
+                "votes": 1
+            },
+            {
+                "name": "C++",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "name": "Gaming Platforms",
+        "options": [
+            {
+                "name": "PC",
+                "votes": 1
+            },
+            {
+                "name": "PlayStation",
+                "votes": 1
+            },
+            {
+                "name": "Xbox",
+                "votes": 0
+            },
+            {
+                "name": "Nintendo Switch",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "name": "Seasons",
+        "options": [
+            {
+                "name": "Spring",
+                "votes": 0
+            },
+            {
+                "name": "Summer",
+                "votes": 0
+            },
+            {
+                "name": "Autumn",
+                "votes": 1
+            },
+            {
+                "name": "Winter",
+                "votes": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Instruments",
+        "options": [
+            {
+                "name": "Guitar",
+                "votes": 2
+            },
+            {
+                "name": "Piano",
+                "votes": 0
+            },
+            {
+                "name": "Drums",
+                "votes": 0
+            },
+            {
+                "name": "Violin",
+                "votes": 0
+            }
+        ]
+    }
+]
